@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Hartă fără titlu</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Strat fără titlu</name>
+		</Folder>
+		<Folder>
+			<name>Indicații de orientare de la Strada Între Lacuri 54, Cluj-Napoca 400000, România la Strada Între Lacuri 54, Cluj-Napoca 400000, România</name>
+			<Placemark>
+				<name>Indicații de orientare de la Strada Între Lacuri 54, Cluj-Napoca 400000, România la Strada Între Lacuri 54, Cluj-Napoca 400000, România</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>23.62639,46.77291,0.0 23.62628,46.7729,0.0 23.62616,46.7729,0.0 23.62602,46.77291,0.0 23.62594,46.77292,0.0 23.62578,46.77294,0.0 23.62568,46.77296,0.0 23.62561,46.77297,0.0 23.62552,46.773,0.0 23.62543,46.77303,0.0 23.62525,46.7731,0.0 23.62511,46.77316,0.0 23.62473,46.77332,0.0 23.62467,46.77335,0.0 23.62461,46.77337,0.0 23.62453,46.77338,0.0 23.62443,46.7734,0.0 23.62429,46.77342,0.0 23.62423,46.77342,0.0 23.62419,46.77342,0.0 23.62411,46.77342,0.0 23.62391,46.77339,0.0 23.62382,46.77347,0.0 23.62378,46.77352,0.0 23.62374,46.77355,0.0 23.62368,46.7736,0.0 23.62362,46.77364,0.0 23.62352,46.77369,0.0 23.62341,46.77373,0.0 23.62331,46.77378,0.0 23.62322,46.77382,0.0 23.62317,46.77386,0.0 23.62314,46.77389,0.0 23.62309,46.77396,0.0 23.623,46.77403,0.0 23.62293,46.77407,0.0 23.62283,46.77411,0.0 23.62284,46.77428,0.0 23.62285,46.77431,0.0 23.62285,46.77433,0.0 23.62286,46.77435,0.0 23.62287,46.77437,0.0 23.6229,46.7744,0.0 23.62291,46.77441,0.0 23.62293,46.77442,0.0 23.62296,46.77443,0.0 23.62302,46.77445,0.0 23.62316,46.77447,0.0 23.62325,46.77449,0.0 23.62334,46.77452,0.0 23.62341,46.77454,0.0 23.62347,46.77455,0.0 23.6235,46.77457,0.0 23.62354,46.77458,0.0 23.62358,46.7746,0.0 23.62361,46.77462,0.0 23.62364,46.77464,0.0 23.62373,46.77471,0.0 23.62376,46.77474,0.0 23.62384,46.77483,0.0 23.62386,46.77485,0.0 23.62389,46.77488,0.0 23.62394,46.7749,0.0 23.62399,46.77492,0.0 23.62404,46.77493,0.0 23.62406,46.77494,0.0 23.62416,46.77495,0.0 23.62421,46.77497,0.0 23.62427,46.77498,0.0 23.62439,46.77502,0.0 23.62444,46.77504,0.0 23.62453,46.77508,0.0 23.62456,46.77511,0.0 23.62469,46.77525,0.0 23.62471,46.77527,0.0 23.62476,46.7753,0.0 23.62479,46.77532,0.0 23.62481,46.77532,0.0 23.62484,46.77533,0.0 23.62486,46.77533,0.0 23.62488,46.77533,0.0 23.62491,46.77532,0.0 23.62492,46.77532,0.0 23.62497,46.77531,0.0 23.62515,46.77525,0.0 23.62537,46.77517,0.0 23.62558,46.77506,0.0 23.6257,46.77498,0.0 23.62577,46.77493,0.0 23.62589,46.77482,0.0 23.62601,46.77465,0.0 23.6261,46.77453,0.0 23.62614,46.77447,0.0 23.62616,46.77443,0.0 23.6262,46.7744,0.0 23.62624,46.77436,0.0 23.62633,46.77432,0.0 23.62652,46.77422,0.0 23.62673,46.77411,0.0 23.62684,46.77407,0.0 23.62693,46.77404,0.0 23.627,46.77403,0.0 23.62707,46.77402,0.0 23.62716,46.77402,0.0 23.62742,46.77403,0.0 23.6276,46.77404,0.0 23.62766,46.77405,0.0 23.62769,46.77406,0.0 23.62773,46.77407,0.0 23.62807,46.77383,0.0 23.62817,46.77376,0.0 23.62819,46.77375,0.0 23.62821,46.77375,0.0 23.62824,46.77374,0.0 23.62826,46.77375,0.0 23.62807,46.7736,0.0 23.62795,46.77352,0.0 23.62777,46.77341,0.0 23.62744,46.77323,0.0 23.62735,46.77318,0.0 23.62715,46.7731,0.0 23.62692,46.773,0.0 23.62684,46.77297,0.0 23.62675,46.77294,0.0 23.62669,46.77293,0.0 23.6266,46.77292,0.0 23.62647,46.77291,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Strada Între Lacuri 54, Cluj-Napoca 400000, România</name>
+				<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>23.6263931,46.7729085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Strada Între Lacuri 54, Cluj-Napoca 400000, România</name>
+				<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>23.6264694,46.7729126,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

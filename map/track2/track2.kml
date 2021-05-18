@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Hartă fără titlu</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Strat fără titlu</name>
+		</Folder>
+		<Folder>
+			<name>Indicații de orientare de la Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România la Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România</name>
+			<Placemark>
+				<name>Indicații de orientare de la Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România la Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>27.60387,47.1545,0.0 27.60333,47.15458,0.0 27.60324,47.15459,0.0 27.60316,47.1546,0.0 27.60308,47.15461,0.0 27.60302,47.15462,0.0 27.60291,47.15463,0.0 27.60282,47.15463,0.0 27.60276,47.15463,0.0 27.60268,47.15463,0.0 27.60255,47.15461,0.0 27.6023,47.15458,0.0 27.60222,47.15457,0.0 27.6021,47.15455,0.0 27.60147,47.15447,0.0 27.60131,47.15444,0.0 27.6012,47.15442,0.0 27.6008,47.15434,0.0 27.60063,47.1543,0.0 27.59947,47.15404,0.0 27.59755,47.15361,0.0 27.59642,47.15336,0.0 27.5962,47.15331,0.0 27.59612,47.15329,0.0 27.59497,47.15304,0.0 27.59471,47.15299,0.0 27.59427,47.1529,0.0 27.59347,47.15273,0.0 27.5927,47.15256,0.0 27.59138,47.15228,0.0 27.59107,47.15222,0.0 27.59082,47.15218,0.0 27.59061,47.15213,0.0 27.59029,47.15206,0.0 27.58928,47.15185,0.0 27.58917,47.15183,0.0 27.58907,47.15182,0.0 27.58895,47.15182,0.0 27.58885,47.15183,0.0 27.58876,47.15184,0.0 27.58865,47.15186,0.0 27.58856,47.15188,0.0 27.58844,47.15192,0.0 27.5883,47.15198,0.0 27.58825,47.15191,0.0 27.58817,47.15189,0.0 27.58816,47.15188,0.0 27.58787,47.15155,0.0 27.58786,47.1515,0.0 27.5879,47.15147,0.0 27.58801,47.15143,0.0 27.58817,47.15139,0.0 27.58831,47.15136,0.0 27.58845,47.15134,0.0 27.5886,47.15132,0.0 27.58876,47.1513,0.0 27.5889,47.1513,0.0 27.58905,47.15129,0.0 27.58916,47.1513,0.0 27.58927,47.15131,0.0 27.58943,47.15133,0.0 27.58946,47.15127,0.0 27.58979,47.15134,0.0 27.59103,47.15162,0.0 27.5919,47.15182,0.0 27.59262,47.15198,0.0 27.59278,47.15201,0.0 27.59288,47.15204,0.0 27.5937,47.15221,0.0 27.59379,47.15223,0.0 27.59458,47.15241,0.0 27.59502,47.1525,0.0 27.59569,47.15265,0.0 27.59601,47.15272,0.0 27.59627,47.15278,0.0 27.59792,47.15314,0.0 27.59867,47.1533,0.0 27.59976,47.15349,0.0 27.60051,47.15359,0.0 27.60061,47.15362,0.0 27.60071,47.15364,0.0 27.60081,47.15366,0.0 27.60124,47.15374,0.0 27.60183,47.15386,0.0 27.602,47.15389,0.0 27.60215,47.15392,0.0 27.60224,47.15393,0.0 27.60231,47.15394,0.0 27.60233,47.15395,0.0 27.6024,47.15395,0.0 27.60258,47.15396,0.0 27.60269,47.15395,0.0 27.60281,47.15394,0.0 27.60294,47.15392,0.0 27.60343,47.15383,0.0 27.60363,47.15381,0.0 27.60372,47.15379,0.0 27.60397,47.15377,0.0 27.60444,47.1537,0.0 27.60448,47.1537,0.0 27.6047,47.15367,0.0 27.6056,47.15351,0.0 27.60651,47.15335,0.0 27.60788,47.15312,0.0 27.60818,47.15307,0.0 27.60839,47.15304,0.0 27.61075,47.15264,0.0 27.61231,47.15238,0.0 27.61286,47.15228,0.0 27.61435,47.15203,0.0 27.61633,47.15171,0.0 27.61794,47.15143,0.0 27.62115,47.15089,0.0 27.62139,47.15158,0.0 27.61985,47.15184,0.0 27.61701,47.15233,0.0 27.61653,47.1524,0.0 27.61615,47.15247,0.0 27.61409,47.15279,0.0 27.61332,47.15292,0.0 27.61289,47.15299,0.0 27.61087,47.15332,0.0 27.60999,47.15347,0.0 27.6092,47.1536,0.0 27.60797,47.1538,0.0 27.6065,47.15405,0.0 27.60613,47.15412,0.0 27.6046,47.15437,0.0 27.60451,47.15439,0.0 27.6044,47.15441,0.0 27.60417,47.15445,0.0 27.60403,47.15447,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România</name>
+				<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>27.6038683,47.1544958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bulevardul Profesor Dimitrie Mangeron 73, Iași 700259, România</name>
+				<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>27.6040277,47.154471,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
